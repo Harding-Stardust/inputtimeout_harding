@@ -1,4 +1,4 @@
-This is a modified version of inputimeout (https://pypi.org/project/inputtimeout)
+This is a modified version of [inputimeout](https://pypi.org/project/inputimeout/)
 
 With the following modifications:
 1. correct spelling inputimeout -> inputtimeout
